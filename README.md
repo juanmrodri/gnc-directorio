@@ -9,6 +9,6 @@ beetween Oct.-Nov. <br>
 - [x] Mails created
 - [ ] Publishing
 
-###### never deployed ######
+###### never deployed on an actual hosting ######
 
 ###### Powered by AOS lib.-> https://github.com/michalsnik/aos ######
