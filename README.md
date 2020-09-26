@@ -12,5 +12,4 @@ beetween Oct.-Nov. <br>
 > https://juanmrodri.github.io/gnc-directorio/
 
 ###### non deployed on a hosting ######
-
 ###### Powered by AOS lib.-> https://github.com/michalsnik/aos ######
