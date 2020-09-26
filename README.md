@@ -9,6 +9,8 @@ beetween Oct.-Nov. <br>
 - [x] Mails created
 - [ ] Publishing
 
+> https://juanmrodri.github.io/gnc-directorio/
+
 ###### non deployed on a hosting ######
 
 ###### Powered by AOS lib.-> https://github.com/michalsnik/aos ######
