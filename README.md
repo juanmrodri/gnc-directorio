@@ -6,6 +6,6 @@
 - [x] Aproved Design
 - [x] Corrections done
 - [x] Mails created
-- [ ] Publishing ###### never deployed ######
+- [ ] Publishing - ###### never deployed ######
 
 ###### Powered by AOS lib.-> https://github.com/michalsnik/aos ######
