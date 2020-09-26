@@ -5,5 +5,7 @@
 
 - [x] Aproved Design
 - [x] Corrections done
+- [x] Mails created
 - [ ] Publishing
+
 ###### Powered by AOS lib.-> https://github.com/michalsnik/aos ######
