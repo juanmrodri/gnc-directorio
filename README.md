@@ -2,7 +2,7 @@
 
 **Created by Juan Manuel Rodriguez**<br>
 > Circa 2019<br>
-beetween Oct./Nov./ <br>
+beetween Oct.-Nov. <br>
 
 - [x] Aproved Design
 - [x] Corrections done
