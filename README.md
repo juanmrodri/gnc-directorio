@@ -4,6 +4,8 @@
 > Circa 2019<br>
 beetween Oct.-Nov. <br>
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 - [x] Aproved Design
 - [x] Corrections done
 - [x] Mails created
