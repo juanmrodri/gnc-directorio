@@ -9,6 +9,16 @@ beetween Oct.-Nov. <br>
 - [x] Mails created
 - [ ] Publishing
 
+
+### Wanna clone the repo?
+
+Go to the console & type this
+
+```sh
+$ git clone https://github.com/juanmrodri/gnc-directorio.git
+
+```
+
 > https://juanmrodri.github.io/gnc-directorio/
 
 ###### non deployed on a hosting ######
